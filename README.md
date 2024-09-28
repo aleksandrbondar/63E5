@@ -46,3 +46,6 @@
 ### /register
 1. GET: REGISTER page
 2. POST: form action (POST method)
+
+### /logout
+1. GET: logout, then redirect to root
